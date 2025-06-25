@@ -24,7 +24,7 @@ Design and implement a complete **Vehicle Rental System** using **MySQL only**, 
 - `Promotions` – Discounts and offers
 - `Pricing` – Hourly/daily rates
 
-✅ **ER Diagram included** → [`Vehicle_Rental_ER_Diagram.png`]([./Vehicle_Rental_ER_Diagram.png](https://github.com/raghul-ravi1720/Vehicle-Rental-System/blob/018307ea1613cbf138b2fec442753b22e3ccfb7f/Vehicle%20Rental%20ER%20Diagram.png))
+✅ **ER Diagram included** → [`Vehicle_Rental_ER_Diagram.png`](Vehicle_Rental_ER_Diagram.png)
 
 ---
 
